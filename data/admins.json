@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "nome": "BlockchainInsper",
+    "email": "admin@blockchaininsper.com.br",
+    "senha": "$2a$10$qJW5rynHnpg/4BSS8uMWuu58xb81cJ7XLkGSxkZZqUp.AT377KzyS",
+    "role": "super_admin",
+    "ativo": true,
+    "criadoEm": "2025-08-28T10:00:00Z",
+    "atualizadoEm": "2025-08-28T20:35:35.849Z",
+    "ultimoLogin": "2025-08-28T21:25:32.362Z"
+  },
+  {
+    "id": 2,
+    "nome": "admin",
+    "email": "admin@admin.com",
+    "senha": "$2a$10$fTkKIlV4fbN4CBtEijMageFb2PunY6bfTFy0bUM0KFXfrlRvR3qcq",
+    "role": "admin",
+    "ativo": true,
+    "criadoEm": "2025-08-28T20:36:01.923Z",
+    "atualizadoEm": "2025-08-28T20:36:01.923Z",
+    "ultimoLogin": "2025-08-28T21:21:25.059Z"
+  }
+]

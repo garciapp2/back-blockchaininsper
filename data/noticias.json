@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "titulo": "Blockchain Insper lança novo programa de pesquisa em DeFi",
+    "resumo": "Nova iniciativa visa aprofundar estudos sobre finanças descentralizadas e seus impactos no mercado tradicional.",
+    "conteudo": "A Blockchain Insper anuncia o lançamento de um programa abrangente de pesquisa focado em Decentralized Finance (DeFi). Esta iniciativa representa um marco importante no desenvolvimento acadêmico da entidade, consolidando nossa posição como referência em estudos sobre tecnologias financeiras emergentes.",
+    "data": "2024-12-15",
+    "dataFormatada": "15 de dezembro de 2024",
+    "autor": "Equipe Blockchain Insper",
+    "categoria": "Pesquisa",
+    "imagem": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "link": "#",
+    "destaque": true,
+    "ativo": true,
+    "criadoEm": "2024-12-15T10:00:00Z",
+    "atualizadoEm": "2025-08-28T20:07:40.595Z"
+  },
+  {
+    "id": 2,
+    "titulo": "Parceria estratégica com Bradesco Asset Management",
+    "resumo": "Nova colaboração visa desenvolver soluções inovadoras para o mercado de capitais utilizando blockchain.",
+    "conteudo": "A entidade firma parceria com o Bradesco Asset Management para desenvolvimento conjunto de projetos que visam revolucionar o mercado de capitais através da implementação de tecnologias blockchain.",
+    "data": "2024-12-08",
+    "dataFormatada": "8 de dezembro de 2024",
+    "autor": "Diretoria de Business",
+    "categoria": "Parceria",
+    "imagem": "https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "link": "#",
+    "destaque": false,
+    "ativo": true,
+    "criadoEm": "2024-12-08T10:00:00Z",
+    "atualizadoEm": "2024-12-08T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "titulo": "Membros da Blockchain Insper vencem competição nacional de fintech",
+    "resumo": "Equipe desenvolveu solução inovadora para pagamentos internacionais usando tecnologia blockchain.",
+    "conteudo": "Três membros da entidade conquistaram o primeiro lugar na competição nacional de fintech com uma solução revolucionária para pagamentos internacionais, demonstrando a excelência técnica de nossos estudantes.",
+    "data": "2024-11-25",
+    "dataFormatada": "25 de novembro de 2024",
+    "autor": "Diretoria de Tech",
+    "categoria": "Conquista",
+    "imagem": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "link": "#",
+    "destaque": true,
+    "ativo": true,
+    "criadoEm": "2024-11-25T10:00:00Z",
+    "atualizadoEm": "2024-11-25T10:00:00Z"
+  }
+]
