@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nome": "teste",
+    "email": "teste@teste.com",
+    "mensagem": "teste",
+    "dataEnvio": "2025-08-31T21:39:57.687Z",
+    "lida": true,
+    "respondida": false,
+    "atualizadaEm": "2025-08-31T21:40:25.534Z"
+  }
+]
