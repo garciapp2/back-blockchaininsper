@@ -123,3 +123,4 @@ backups/*
 
 # Config files with sensitive data
 config.env
+
