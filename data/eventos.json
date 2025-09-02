@@ -46,18 +46,18 @@
   },
   {
     "id": 4,
-    "titulo": "G1 amassou",
-    "descricao": "RECEBA",
-    "data": "2025-08-28",
+    "titulo": "G1 amassou!",
+    "descricao": "Novo site da blockchain pronto pra inaugurar!",
+    "data": "2025-09-03",
     "local": "Insper",
-    "participantes": "4+",
+    "participantes": "4",
     "categoria": "Apresentação",
-    "imagem": "http://localhost:5000/uploads/1756408362541-6a6uj8bd0.png",
+    "imagem": "http://localhost:5000/uploads/1756841054892-an56tevxm.png",
     "destaque": true,
     "ativo": true,
     "criadoEm": "2025-08-28T18:51:21.000Z",
-    "atualizadoEm": "2025-08-28T20:15:25.271Z",
-    "dataFormatada": "27 de agosto de 2025"
+    "atualizadoEm": "2025-09-02T19:44:17.983Z",
+    "dataFormatada": "2 de setembro de 2025"
   },
   {
     "id": 5,
